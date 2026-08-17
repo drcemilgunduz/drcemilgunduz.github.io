@@ -6,6 +6,8 @@
     --muted: #8C8577;
     --accent: #6E2A28;
     --accent-soft: #F1E4E1;
+    --accent2: #2C5C57;
+    --accent2-soft: #E3ECEA;
     --line: #DED8CB;
     --serif: 'Source Serif 4', Georgia, serif;
     --sans: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
@@ -50,6 +52,13 @@
     background: rgba(246,243,238,0.92);
     backdrop-filter: blur(6px);
     z-index: 10;
+  }
+  header.site-nav::before {
+    content: "";
+    display: block;
+    height: 3px;
+    background: var(--accent);
+    background: linear-gradient(90deg, var(--accent) 50%, var(--accent2) 50%);
   }
   .nav-inner {
     max-width: 760px;
@@ -110,6 +119,37 @@
 
   /* ---------- Hero ---------- */
   .hero { padding: 76px 0 48px; }
+  .hero-top {
+    display: flex;
+    align-items: flex-start;
+    gap: 28px;
+  }
+  .hero-monogram {
+    flex-shrink: 0;
+    width: 92px;
+    height: 92px;
+    border-radius: 50%;
+    background: var(--accent);
+    color: var(--bg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: var(--serif);
+    font-weight: 600;
+    font-size: 30px;
+    letter-spacing: 0.02em;
+    border: 3px solid var(--accent2);
+  }
+  .hero-monogram img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+  @media (max-width: 560px) {
+    .hero-top { flex-direction: column; align-items: flex-start; }
+    .hero-monogram { width: 72px; height: 72px; font-size: 24px; }
+  }
   .eyebrow {
     font-size: 13px;
     letter-spacing: 0.08em;
@@ -143,7 +183,9 @@
     color: var(--ink);
     max-width: 620px;
     border-left: 2px solid var(--accent);
-    padding-left: 20px;
+    background: var(--accent2-soft);
+    padding: 18px 20px;
+    margin-top: 28px;
   }
 
   /* ---------- Section rhythm ---------- */
@@ -193,7 +235,7 @@
     background: var(--muted);
   }
   .evo-step.is-current::before {
-    background: var(--accent);
+    background: var(--accent2);
     width: 10px;
     height: 10px;
     left: -6px;
@@ -210,7 +252,7 @@
     color: var(--ink);
   }
   .evo-step.is-current .evo-label {
-    color: var(--accent);
+    color: var(--accent2);
     font-weight: 600;
   }
 
@@ -222,7 +264,7 @@
     color: var(--muted);
     margin: 0 0 12px;
   }
-  .theme-category.current { color: var(--accent); }
+  .theme-category.current { color: var(--accent2); }
   .theme-group { margin-bottom: 34px; }
   .theme-group:last-child { margin-bottom: 0; }
   .theme-list { list-style: none; margin: 0; padding: 0; }
@@ -344,9 +386,9 @@ h1.page-title {
   font-size: 12.5px;
   letter-spacing: 0.05em;
   text-transform: uppercase;
-  color: var(--accent);
-  border: 1px solid var(--accent-soft);
-  background: var(--accent-soft);
+  color: var(--accent2);
+  border: 1px solid var(--accent2-soft);
+  background: var(--accent2-soft);
   padding: 4px 10px;
   margin-bottom: 18px;
 }
