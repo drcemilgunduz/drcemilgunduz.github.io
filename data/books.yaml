@@ -1,0 +1,177 @@
+# Cemil Gündüz — Books & Book Chapters
+# Source of truth: YÖKSİS CV (27.11.2025)
+
+books:
+  - slug: alternatif-turizmde-yeni-temalar-ve-destinasyonlar
+    title: "Alternatif Turizmde Yeni Temalar ve Destinasyonlar"
+    role: author
+    year: 2022
+    publisher: "Detay Yayınevi"
+    pages: 148
+    isbn: "9786052546338"
+    language: Turkish
+
+  - slug: helal-turizm-ve-rekabet-stratejileri
+    title: "Helal Turizm ve Rekabet Stratejileri"
+    role: author
+    year: 2020
+    publisher: "Cinius Yayınları"
+    editor: "Zeynep Aytekin"
+    pages: 221
+    isbn: "978-625-7113-14-4"
+    language: Turkish
+
+edited_books:
+  - slug: turizmde-dijital-gelecek
+    title: "Turizmde Dijital Gelecek: Seyahat, Konaklama, Rehberlik ve Gastronomide Teknolojik Trendler ve Yenilikçi Uygulamalar"
+    role: editor
+    year: 2023
+    publisher: "Detay Yayınevi"
+
+  - slug: deneyimsel-turizmde-yenilikci-uygulamalar
+    title: "Deneyimsel Turizmde Yenilikçi Uygulamalar"
+    role: editor
+    year: 2023
+    publisher: "Eğitim Yayınevi"
+
+  - slug: turizmde-guncel-yaklasimlar
+    title: "Turizmde Güncel Yaklaşımlar"
+    role: editor
+    year: 2021
+    publisher: "Eğitim Yayınevi"
+
+# Book chapters — most relevant to current positioning shown first (AI/digital/sustainability),
+# full list preserved for completeness
+chapters:
+  - slug: yerel-mutfak-kulturunun-surdurulmesi-ve-dijitallesme
+    chapter_title: "Yerel Mutfak Kültürünün Sürdürülmesi ve Dijitalleşme"
+    book_title: "Gastronomi ve Turizm: Gastronomi ve Gastronomi Turizminde Teknoloji, Yapay Zekâ ve Dijitalleşme"
+    year: 2025
+    publisher: "Akademisyen Yayınevi"
+    editor: "Serkan Bertan"
+    themes: [ai-digital-tourism, gastronomy-tourism]
+    featured: true
+
+  - slug: dijital-donusum-ve-akilli-turizm
+    chapter_title: "Dijital Dönüşüm ve Akıllı Turizm: Yapay Zekâ, Büyük Veri ve Akıllı Destinasyon Yönetiminin Sürdürülebilir Geleceği"
+    book_title: "Akademik Bakış: Turizm Sektörü"
+    year: 2024
+    publisher: "Özgür Publications"
+    editor: "Şeyhmus Demircan, Onur Atak, Taner Dalgın"
+    themes: [ai-digital-tourism, sustainable-tourism]
+    featured: true
+
+  - slug: deneyimsel-turizm-kavramsal-cerceve-guncel-egilimler
+    chapter_title: "Deneyimsel Turizm: Kavramsal Çerçeve ve Güncel Eğilimler"
+    book_title: "Deneyimsel Turizmde Yenilikçi Uygulamalar"
+    year: 2023
+    publisher: "Eğitim Yayınevi"
+    editor: "Cemil Gündüz (self-edited volume)"
+    themes: []
+    featured: false
+
+  - slug: halal-tourism-market-structure-europe
+    chapter_title: "An Evaluation of the Structure of the Halal Tourism Market and Its Current Situation in Europe"
+    book_title: "Multifaceted Research in the Field of Tourism"
+    year: 2023
+    publisher: "Özgür Publications"
+    editor: "Merve Öksüz"
+    language: English
+    themes: [halal-tourism]
+    featured: false
+
+  - slug: dijital-turizmin-kanatlari-havayolu-endustrisi
+    chapter_title: "Dijital Turizmin Kanatları: Havayolu Endüstrisinde Yeni Nesil Uygulamalar ve İnovasyonlar"
+    book_title: "Turizmde Dijital Gelecek: Seyahat, Konaklama, Rehberlik ve Gastronomide Teknolojik Trendler ve Yenilikçi Uygulamalar"
+    year: 2023
+    publisher: "Detay Yayınevi"
+    editor: "Cemil Gündüz (self-edited volume)"
+    themes: [ai-digital-tourism]
+    featured: false
+
+  - slug: turizmde-yabancilasma
+    chapter_title: "Turizmde Yabancılaşma"
+    book_title: "Türkiye Turizm Ansiklopedisi"
+    year: 2022
+    publisher: "Detay Yayınevi"
+    editor: "Nazmi Kozak, Metin Kozak"
+    type: "encyclopedia-entry"
+    themes: []
+    featured: false
+
+  - slug: turk-hava-yollari-kurslari
+    chapter_title: "Türk Hava Yolları Kursları"
+    book_title: "Türkiye Turizm Ansiklopedisi"
+    year: 2022
+    publisher: "Detay Yayınevi"
+    editor: "Nazmi Kozak, Metin Kozak"
+    type: "encyclopedia-entry"
+    themes: []
+    featured: false
+
+  - slug: turizm-amacli-su-sporlari
+    chapter_title: "Turizm Amaçlı Su Sporları"
+    book_title: "Türkiye Turizm Ansiklopedisi"
+    year: 2022
+    publisher: "Detay Yayınevi"
+    editor: "Nazmi Kozak, Metin Kozak"
+    type: "encyclopedia-entry"
+    themes: []
+    featured: false
+
+  - slug: niksar-ansiklopedi
+    chapter_title: "Niksar"
+    book_title: "Türkiye Turizm Ansiklopedisi"
+    year: 2022
+    publisher: "Detay Yayınevi"
+    editor: "Nazmi Kozak, Metin Kozak"
+    type: "encyclopedia-entry"
+    themes: [geotourism]
+    featured: false
+
+  - slug: turizm-egitimi-veren-kurumlar-niksar
+    chapter_title: "Turizm Eğitimi Veren Kurumlar - Niksar Sosyal Bilimler Meslek Yüksekokulu"
+    book_title: "Türkiye Turizm Ansiklopedisi"
+    year: 2022
+    publisher: "Detay Yayınevi"
+    editor: "Nazmi Kozak, Metin Kozak"
+    type: "encyclopedia-entry"
+    themes: []
+    featured: false
+
+  - slug: findigin-oykusu-muzesi-ordu
+    chapter_title: "Fındığın Öyküsü Müzesi, Ordu"
+    book_title: "Türkiye Turizm Ansiklopedisi"
+    year: 2022
+    publisher: "Detay Yayınevi"
+    editor: "Nazmi Kozak, Metin Kozak"
+    type: "encyclopedia-entry"
+    themes: []
+    featured: false
+
+  - slug: kruvaziyer-turizm-ve-turkiye
+    chapter_title: "Kruvaziyer Turizm ve Türkiye"
+    book_title: "Turizmde Güncel Yaklaşımlar"
+    year: 2021
+    publisher: "Eğitim Yayınevi"
+    editor: "Cemil Gündüz (self-edited volume)"
+    themes: []
+    featured: false
+
+  - slug: turizmde-yeni-trendler-helal-turizm-turkiye
+    chapter_title: "Turizmde Yeni Trendler: Helal Turizmin Türkiye'deki Gelişimi ve Arz Potansiyeli"
+    book_title: "Gıda ve Turizm"
+    year: 2018
+    publisher: "Akademisyen Kitabevi"
+    editor: "Dilek Say"
+    themes: [halal-tourism]
+    featured: false
+
+  - slug: surdurulebilir-turizmin-ilke-amac-hedefleri
+    chapter_title: "Sürdürülebilir Turizmin İlke, Amaç ve Hedefleri"
+    book_title: "Sürdürülebilir Turizm: Temel Kavramlar ve İlkeler"
+    year: 2016
+    publisher: "Detay Yayıncılık"
+    editor: "Hüseyin Çeken"
+    themes: [sustainable-tourism]
+    featured: false

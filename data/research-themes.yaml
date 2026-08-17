@@ -1,0 +1,54 @@
+# Cemil Gündüz — Research Themes
+# Order below reflects current positioning priority (agreed with Cemil):
+# AI/digital and sustainability are foregrounded; halal tourism remains visible
+# as doctoral/established background but is not the lead theme.
+
+- slug: ai-digital-tourism
+  display_order: 1
+  category: "Current Focus"
+  title: "Artificial Intelligence & Digital Transformation in Tourism"
+  research_question: "How are artificial intelligence and digital technologies reshaping decision-making, service delivery and knowledge management in tourism and hospitality?"
+  why_it_matters: "Tourism and hospitality businesses are increasingly adopting AI-driven tools and digital platforms, raising practical and ethical questions about how these technologies are used responsibly and effectively."
+  contribution: "Cemil Gündüz's contribution to this area includes conference research on the ethical challenges of AI adoption in knowledge management, applied case studies on AI-driven personalisation in aviation and hospitality, and book chapters examining digital transformation and smart destination management. He has also completed specialised training in AI ethics and applications relevant to this direction."
+  keywords: ["artificial intelligence", "digital transformation", "smart tourism", "AI ethics", "knowledge management", "text mining"]
+  status_note: "This is a developing research direction, actively pursued through recent publications, conference contributions and continued professional training."
+
+- slug: sustainable-tourism
+  display_order: 2
+  category: "Current Focus"
+  title: "Sustainable Tourism"
+  research_question: "How can tourism destinations and businesses balance environmental responsibility with economic and social development?"
+  why_it_matters: "Environmental certification, resource management and community resilience are increasingly central to tourism policy and business practice."
+  contribution: "Research in this area includes an evaluation of environmental practices in Green Key certified hotels in Turkey, and a qualitative study of the environmental effects of tourism activity in the Niksar Çamiçi Plateau."
+  keywords: ["sustainable tourism", "environmental certification", "destination management", "tourism resilience"]
+  status_note: null
+
+- slug: gastronomy-tourism
+  display_order: 3
+  category: "Also Working On"
+  title: "Gastronomy Tourism & Cultural Diplomacy"
+  research_question: "How does food-related tourism function as a form of cultural exchange and diplomacy between countries?"
+  why_it_matters: "Gastronomy festivals and culinary heritage increasingly serve as vehicles for cross-cultural understanding and destination branding."
+  contribution: "This theme is anchored by a comparative study of gastronomy festivals in Turkey and Italy, published in British Food Journal, and a book chapter on the digitalisation of local culinary culture."
+  keywords: ["culinary tourism", "gastronomy festivals", "cultural diplomacy", "food heritage"]
+  status_note: null
+
+- slug: geotourism
+  display_order: 4
+  category: "Also Working On"
+  title: "Geotourism & Regional Development"
+  research_question: "How can natural geological formations be developed into sustainable, regionally beneficial tourism assets?"
+  why_it_matters: "Geotourism offers a route to regional economic diversification while requiring careful management of natural sites."
+  contribution: "Research includes a SOAR-based analysis of the geotourism potential of the Tokat Gökçeli Dilim Kayalar rock formations and associated regional development strategies."
+  keywords: ["geotourism", "regional development", "SOAR analysis", "Tokat"]
+  status_note: null
+
+- slug: halal-tourism
+  display_order: 5
+  category: "Doctoral Background"
+  title: "Halal Tourism & Competitive Strategy"
+  research_question: "What strategic and competitive factors shape the halal tourism and hospitality market, and how is this market structured across different countries?"
+  why_it_matters: "Halal tourism represents a significant and growing segment of the global tourism market, with distinct certification, marketing and operational requirements."
+  contribution: "This was Cemil Gündüz's doctoral research area (Muğla Sıtkı Koçman University, 2019) and the subject of a dedicated book, several journal articles, and a web content analysis of the halal tourism market in Italy conducted during his time at the University of Turin."
+  keywords: ["halal tourism", "competitive strategy", "certification", "Islamic tourism market"]
+  status_note: "An established area of expertise from earlier doctoral and postdoctoral work."

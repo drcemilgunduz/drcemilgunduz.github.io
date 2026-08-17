@@ -1,0 +1,281 @@
+# Cemil Gündüz — Publications Data
+# Source of truth: YÖKSİS CV (27.11.2025)
+# category: international-journal | national-journal | international-proceedings | national-proceedings
+# theme: matches slug in research-themes.yaml
+# To add a new publication: copy the block structure below and fill in verified fields only.
+# If a field is unknown/unverified, leave it as null — never invent data.
+
+- slug: tourism-inflation-low-income-communities-turkey
+  title: "Tourism, inflation and low-income communities in Turkey: impacts on domestic travel behaviour and local resilience"
+  authors:
+    - "Cemil Gündüz"
+    - "Mojtaba Rezaei"
+    - "Onur Atak"
+    - "Ciro Troise"
+    - "Stefano Bresciani"
+  year: 2025
+  journal: "Journal of Enterprising Communities: People and Places in the Global Economy"
+  volume: null
+  issue: null
+  pages: null
+  doi: "10.1108/JEC-05-2025-0141"
+  category: international-journal
+  themes: []
+  featured: true
+
+- slug: culinary-tourism-cultural-diplomacy-gastronomy-festivals
+  title: "Culinary tourism: exploring cultural diplomacy through gastronomy festivals in Turkey and Italy"
+  authors:
+    - "Cemil Gündüz"
+    - "Mojtaba Rezaei"
+    - "Roberto Quaglia"
+    - "Marco Pironti"
+  year: 2024
+  journal: "British Food Journal"
+  volume: 126
+  issue: null
+  pages: null
+  doi: "10.1108/BFJ-11-2023-0965"
+  category: international-journal
+  themes: [gastronomy-tourism]
+  featured: true
+
+- slug: navigating-change-covid19-knowledge-sharing-family-firms
+  title: "Navigating change: examining the influence of COVID-19 on knowledge-sharing dynamics in family firms within the restaurant and fast-food industry"
+  authors:
+    - "Mojtaba Rezaei"
+    - "Cemil Gündüz"
+    - "Nizar Ghamgui"
+    - "Marco Pironti"
+    - "Tomas Kliestik"
+  year: 2024
+  journal: "Journal of Knowledge Management"
+  volume: 28
+  issue: null
+  pages: null
+  doi: "10.1108/JKM-09-2023-0815"
+  category: international-journal
+  themes: []
+  featured: true
+
+- slug: sustainable-tourism-green-key-hotels-turkey
+  title: "Sustainable Tourism in Green Key Certified Hotels in Turkey: Evaluation of Environmental Practices and Future Perspectives"
+  authors:
+    - "Cemil Gündüz"
+  year: 2024
+  journal: "Journal of International Academic Accumulation"
+  volume: 7
+  issue: 4
+  pages: "630-645"
+  doi: "10.5281/zenodo.13958474"
+  category: international-journal
+  themes: [sustainable-tourism]
+  featured: false
+
+- slug: geotourism-potential-tokat-gokceli-dilim-kayalar
+  title: "Determining the Geotourism Potential of Tokat Gökçeli Dilim Kayalar through SOAR Analysis and Formulating Regional Development Strategies"
+  authors:
+    - "Cemil Gündüz"
+  year: 2024
+  journal: "Journal of Humanities and Tourism Research"
+  volume: 14
+  issue: 3
+  pages: "311-331"
+  doi: null
+  category: international-journal
+  themes: [geotourism]
+  featured: false
+
+- slug: halal-tourism-web-content-analysis-italy
+  title: "Halal tourism: a web content analysis in Italy"
+  authors:
+    - "Cemil Gündüz"
+    - "Davide Calandra"
+    - "Paolo Biancone"
+  year: 2023
+  journal: "European Journal of Islamic Finance"
+  volume: 10
+  issue: 1
+  pages: "34-43"
+  doi: "10.13135/2421-2172/7429"
+  category: international-journal
+  themes: [halal-tourism]
+  featured: false
+
+- slug: helal-otellerde-porter-jenerik-rekabet-stratejileri
+  title: "Helal otellerde Porter'in jenerik rekabet stratejilerinin tespiti: yöneticiler üzerine bir araştırma"
+  authors:
+    - "Cemil Gündüz"
+    - "Cafer Topaloğlu"
+  year: 2021
+  journal: "Balıkesir Üniversitesi Sosyal Bilimler Enstitüsü Dergisi"
+  volume: null
+  issue: null
+  pages: null
+  doi: "10.31795/baunsobed.732726"
+  category: international-journal
+  themes: [halal-tourism]
+  featured: false
+
+- slug: mesleki-egitimde-toplam-kalite-yonetimi-verimlilik
+  title: "Mesleki eğitimde toplam kalite yönetimi ve verimlilik: Niksar Mesleki Eğitim Merkezi üzerine bir uygulama"
+  authors:
+    - "Cemil Gündüz"
+    - "Saadet Gündüz"
+  year: 2017
+  journal: "The Journal of Social Sciences"
+  volume: 11
+  issue: 11
+  pages: "925-940"
+  doi: "10.16990/SOBIDER.3488"
+  category: international-journal
+  themes: []
+  featured: false
+
+- slug: havalimani-calisanlari-orgutsel-stres-kaynaklari
+  title: "Havalimanı çalışanlarının örgütsel stres kaynaklarının belirlenmesi ve stresle mücadele etme yöntemlerinin tespiti üzerine bir uygulama"
+  authors:
+    - "Cemil Gündüz"
+    - "Saadet Gündüz"
+  year: 2017
+  journal: "The Journal of Turk-Islam World Social Studies"
+  volume: 11
+  issue: 11
+  pages: "187-199"
+  doi: "10.16989/TIDSAD.1276"
+  category: international-journal
+  themes: []
+  featured: false
+
+- slug: universite-ogrencileri-orgutsel-problemler-basa-cikma
+  title: "Üniversite öğrencilerinin örgütsel problemleri ile başa çıkma yolları: Muğla Sıtkı Koçman Üniversitesi Öğrenci Konseyi örneği"
+  authors:
+    - "Cemil Gündüz"
+  year: 2016
+  journal: "The Journal of Social Sciences"
+  volume: 8
+  issue: 8
+  pages: "274-274"
+  doi: "10.16990/SOBIDER.289"
+  category: international-journal
+  themes: []
+  featured: false
+
+# National (Ulusal) journal articles
+- slug: customised-holiday-experiences-artificial-intelligence
+  title: "Customised Holiday Experiences through Artificial Intelligence: Case Studies from the Aviation and Hospitality Sectors"
+  authors:
+    - "Cemil Gündüz"
+  year: 2023
+  journal: "Journal of Aviation"
+  volume: 7
+  issue: null
+  pages: null
+  doi: "10.30518/jav.1351472"
+  category: national-journal
+  themes: [ai-digital-tourism]
+  featured: true
+
+- slug: environmental-effects-tourism-niksar-camici-plateau
+  title: "Environmental effects of tourism activities in Niksar Çamiçi Plateau in the context of sustainable tourism: a qualitative research"
+  authors:
+    - "Cemil Gündüz"
+    - "Onur Atak"
+  year: 2023
+  journal: "International Journal of Agriculture Environment and Food Sciences"
+  volume: 7
+  issue: 3
+  pages: "621-632"
+  doi: "10.31015/jaefs.2023.3.16"
+  category: national-journal
+  themes: [sustainable-tourism]
+  featured: false
+
+- slug: otel-konuk-yorumlari-puanlari-metin-madenciligi
+  title: "Türkiye'deki otel konuk yorumları ve puanlarının metin madenciliği ile analizi"
+  authors:
+    - "Yılmaz Ağca"
+    - "Cemil Gündüz"
+  year: 2023
+  journal: "Yönetim ve Ekonomi: Celal Bayar Üniversitesi İİBF Dergisi"
+  volume: 30
+  issue: 2
+  pages: "397-411"
+  doi: "10.18657/yonveek.1063592"
+  category: national-journal
+  themes: [ai-digital-tourism]
+  featured: false
+
+- slug: halal-concept-cruise-tourism-asia-pacific
+  title: "Halal Concept Cruise Tourism: Asia Pacific's First Halal-Friendly Cruise Ship"
+  authors:
+    - "Cemil Gündüz"
+  year: 2022
+  journal: "Nevşehir Hacı Bektaş Veli Üniversitesi SBE Dergisi"
+  volume: 12
+  issue: 2
+  pages: "1212-1219"
+  doi: "10.30783/nevsosbilen.988344"
+  category: national-journal
+  themes: [halal-tourism]
+  featured: false
+
+- slug: halal-concept-package-tour-recommendation
+  title: "Halal Concept Package Tour Recommendation for Travel Agencies and Tour Operators: Example of Turkey"
+  authors:
+    - "Cemil Gündüz"
+  year: 2022
+  journal: "Journal of Tourism and Gastronomy Studies"
+  volume: 10
+  issue: 1
+  pages: "94-104"
+  doi: "10.21325/jotags.2022.980"
+  category: national-journal
+  themes: [halal-tourism]
+  featured: false
+
+- slug: orta-karadenizde-gelismekte-olan-yayla-turizmi-niksar
+  title: "Orta Karadeniz'de gelişmekte olan bir yayla turizmi merkezi: Niksar Çamiçi Yaylası"
+  authors:
+    - "Cemil Gündüz"
+    - "Cafer Topaloğlu"
+  year: 2016
+  journal: "The Journal of Turk-Islam World Social Studies"
+  volume: 8
+  issue: 8
+  pages: "84-96"
+  doi: "10.16989/TIDSAD.181"
+  category: national-journal
+  themes: []
+  featured: false
+
+# International conference proceedings (selected — AI and most recent ones prioritised for site display)
+- slug: ethical-challenges-ai-knowledge-management-tourism
+  title: "Ethical Challenges in Using Artificial Intelligence in Knowledge Management Considering In Tourism Sector"
+  authors:
+    - "Cemil Gündüz"
+    - "Mojtaba Rezaei"
+    - "Marco Pironti"
+  year: 2023
+  conference: "II. Artificial Intelligence and Social Sciences Congress"
+  doi: null
+  category: international-proceedings
+  themes: [ai-digital-tourism]
+  featured: true
+
+- slug: use-of-ai-technologies-tourism-sector-application-examples
+  title: "The Use of Artificial Intelligence Technologies in the Tourism Sector and Application Examples"
+  authors:
+    - "Cemil Gündüz"
+    - "Mojtaba Rezaei"
+    - "Marco Pironti"
+  year: 2023
+  conference: "II. Artificial Intelligence and Social Sciences Congress"
+  doi: null
+  category: international-proceedings
+  themes: [ai-digital-tourism]
+  featured: true
+
+# NOTE: Additional national/international proceedings exist in the CV (16 international + 6 national entries total).
+# Only the most relevant/recent are included above for initial launch to avoid an overwhelming list.
+# Full list can be added incrementally — see /data/README.md for the process.
